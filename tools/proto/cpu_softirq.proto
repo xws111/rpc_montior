@@ -1,0 +1,31 @@
+syntax = "proto3";
+package rpc_monitor;
+
+/* softIRQ为软中断，IRQ表示interrupt request
+*  cpu cpu编号
+*  hi 表示硬中断。hardware interrupts(硬件中断)
+*  timer 定时中断
+*  net_tx 网络发送Network Transmit
+*  net_rx 网络接收Network Receive
+*  block 块设备软中断，块设备指硬盘驱动器、固态硬盘、CD-ROM等设备，用于块级别的数据存储和检索。主要是磁盘读写请求等中断
+*  irq_poll 中断轮询软中断。用来轮询硬中断事件。
+*  tasklet 任务队列软中断，用于处理内核中的任务队列。
+*  sched 调度器软中断
+*  hrtimer 高精度定时器软中断，用于处理内核中的高精度计时器事件，与一些定时器、超时和时间敏感任务相关。
+*  rcu 读-复制-更新软中断，用于并发数据结构访问的技术。
+*/
+
+message SoftIrq
+{
+    string cpu = 1;
+    float hi = 2;
+    float timer = 3;
+    float net_tx = 4;
+    float net_rx = 5;
+    float block = 6;
+    float irq_poll = 7;
+    float tasklet = 8;
+    float sched = 9;
+    float hrtimer = 10;
+    float rcu = 11;
+}

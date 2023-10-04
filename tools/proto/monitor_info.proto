@@ -1,0 +1,29 @@
+syntax = "proto3";
+package rpc_monitor;
+
+import "google/protobuf/empty.proto";
+import "cpu_load.proto";
+import "cpu_softirq.proto";
+import "cpu_stat.proto";
+import "mem_info.proto";
+import "net_info.proto";
+
+// repeated表示含有多个变量，类似与数组
+message MonitorInfo
+{
+    string name = 1;
+    repeated SoftIrq soft_irq = 4;
+    CpuLoad cpu_load = 5;
+    repeated CpuStat cpu_stat = 6;
+    MemInfo mem_info = 7;
+    repeated NetInfo net_info = 8;
+}
+
+
+service GrpcManager {
+    rpc SetMonitorInfo(MonitorInfo) returns (google.protobuf.Empty) {
+    }
+  
+    rpc GetMonitorInfo(google.protobuf.Empty) returns (MonitorInfo) {
+    }
+  }
