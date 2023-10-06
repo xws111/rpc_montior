@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/work/cmake/_deps/gtest-subbuild/CMakeFiles/gtest-populate"
+		},
+		{
+			"file" : "/work/cmake/_deps/gtest-subbuild/CMakeFiles/gtest-populate.rule"
+		},
+		{
+			"file" : "/work/cmake/_deps/gtest-subbuild/CMakeFiles/gtest-populate-complete.rule"
+		},
+		{
+			"file" : "/work/cmake/_deps/gtest-subbuild/gtest-populate-prefix/src/gtest-populate-stamp/gtest-populate-build.rule"
+		},
+		{
+			"file" : "/work/cmake/_deps/gtest-subbuild/gtest-populate-prefix/src/gtest-populate-stamp/gtest-populate-configure.rule"
+		},
+		{
+			"file" : "/work/cmake/_deps/gtest-subbuild/gtest-populate-prefix/src/gtest-populate-stamp/gtest-populate-download.rule"
+		},
+		{
+			"file" : "/work/cmake/_deps/gtest-subbuild/gtest-populate-prefix/src/gtest-populate-stamp/gtest-populate-install.rule"
+		},
+		{
+			"file" : "/work/cmake/_deps/gtest-subbuild/gtest-populate-prefix/src/gtest-populate-stamp/gtest-populate-mkdir.rule"
+		},
+		{
+			"file" : "/work/cmake/_deps/gtest-subbuild/gtest-populate-prefix/src/gtest-populate-stamp/gtest-populate-patch.rule"
+		},
+		{
+			"file" : "/work/cmake/_deps/gtest-subbuild/gtest-populate-prefix/src/gtest-populate-stamp/gtest-populate-test.rule"
+		},
+		{
+			"file" : "/work/cmake/_deps/gtest-subbuild/gtest-populate-prefix/src/gtest-populate-stamp/gtest-populate-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"gtest-populate"
+		],
+		"name" : "gtest-populate"
+	}
+}
