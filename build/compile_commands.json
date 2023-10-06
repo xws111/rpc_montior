@@ -1,0 +1,147 @@
+[
+{
+  "directory": "/home/xg/work/rpc_montior/build/src",
+  "command": "/usr/bin/c++ -DCARES_STATICLIB -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -I/home/xg/work/rpc_montior/build/src/monitor.exe_autogen/include -I/home/xg/work/rpc_montior/include/utils -I/home/xg/work/rpc_montior/include/monitor -I/home/xg/work/rpc_montior/cmake/tools/proto -I/home/xg/work/rpc_montior/include/qt -I/home/xg/work/rpc_montior/include/client -I/home/xg/work/rpc_montior/build/tools/proto -isystem /include -isystem /usr/include/x86_64-linux-gnu/qt5 -isystem /usr/include/x86_64-linux-gnu/qt5/QtWidgets -isystem /usr/include/x86_64-linux-gnu/qt5/QtGui -isystem /usr/include/x86_64-linux-gnu/qt5/QtCore -isystem /usr/lib/x86_64-linux-gnu/qt5/mkspecs/linux-g++ -fPIC -std=gnu++17 -o CMakeFiles/monitor.exe.dir/monitor.exe_autogen/mocs_compilation.cpp.o -c /home/xg/work/rpc_montior/build/src/monitor.exe_autogen/mocs_compilation.cpp",
+  "file": "/home/xg/work/rpc_montior/build/src/monitor.exe_autogen/mocs_compilation.cpp"
+},
+{
+  "directory": "/home/xg/work/rpc_montior/build/src",
+  "command": "/usr/bin/c++ -DCARES_STATICLIB -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -I/home/xg/work/rpc_montior/build/src/monitor.exe_autogen/include -I/home/xg/work/rpc_montior/include/utils -I/home/xg/work/rpc_montior/include/monitor -I/home/xg/work/rpc_montior/cmake/tools/proto -I/home/xg/work/rpc_montior/include/qt -I/home/xg/work/rpc_montior/include/client -I/home/xg/work/rpc_montior/build/tools/proto -isystem /include -isystem /usr/include/x86_64-linux-gnu/qt5 -isystem /usr/include/x86_64-linux-gnu/qt5/QtWidgets -isystem /usr/include/x86_64-linux-gnu/qt5/QtGui -isystem /usr/include/x86_64-linux-gnu/qt5/QtCore -isystem /usr/lib/x86_64-linux-gnu/qt5/mkspecs/linux-g++ -fPIC -std=gnu++17 -o CMakeFiles/monitor.exe.dir/qt/main.cpp.o -c /home/xg/work/rpc_montior/src/qt/main.cpp",
+  "file": "/home/xg/work/rpc_montior/src/qt/main.cpp"
+},
+{
+  "directory": "/home/xg/work/rpc_montior/build/src",
+  "command": "/usr/bin/c++ -DCARES_STATICLIB -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -I/home/xg/work/rpc_montior/build/src/monitor.exe_autogen/include -I/home/xg/work/rpc_montior/include/utils -I/home/xg/work/rpc_montior/include/monitor -I/home/xg/work/rpc_montior/cmake/tools/proto -I/home/xg/work/rpc_montior/include/qt -I/home/xg/work/rpc_montior/include/client -I/home/xg/work/rpc_montior/build/tools/proto -isystem /include -isystem /usr/include/x86_64-linux-gnu/qt5 -isystem /usr/include/x86_64-linux-gnu/qt5/QtWidgets -isystem /usr/include/x86_64-linux-gnu/qt5/QtGui -isystem /usr/include/x86_64-linux-gnu/qt5/QtCore -isystem /usr/lib/x86_64-linux-gnu/qt5/mkspecs/linux-g++ -fPIC -std=gnu++17 -o CMakeFiles/monitor.exe.dir/qt/monitor_widget.cpp.o -c /home/xg/work/rpc_montior/src/qt/monitor_widget.cpp",
+  "file": "/home/xg/work/rpc_montior/src/qt/monitor_widget.cpp"
+},
+{
+  "directory": "/home/xg/work/rpc_montior/build/src",
+  "command": "/usr/bin/c++ -DCARES_STATICLIB -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -I/home/xg/work/rpc_montior/build/src/monitor.exe_autogen/include -I/home/xg/work/rpc_montior/include/utils -I/home/xg/work/rpc_montior/include/monitor -I/home/xg/work/rpc_montior/cmake/tools/proto -I/home/xg/work/rpc_montior/include/qt -I/home/xg/work/rpc_montior/include/client -I/home/xg/work/rpc_montior/build/tools/proto -isystem /include -isystem /usr/include/x86_64-linux-gnu/qt5 -isystem /usr/include/x86_64-linux-gnu/qt5/QtWidgets -isystem /usr/include/x86_64-linux-gnu/qt5/QtGui -isystem /usr/include/x86_64-linux-gnu/qt5/QtCore -isystem /usr/lib/x86_64-linux-gnu/qt5/mkspecs/linux-g++ -fPIC -std=gnu++17 -o CMakeFiles/monitor.exe.dir/qt/cpu_load_model.cpp.o -c /home/xg/work/rpc_montior/src/qt/cpu_load_model.cpp",
+  "file": "/home/xg/work/rpc_montior/src/qt/cpu_load_model.cpp"
+},
+{
+  "directory": "/home/xg/work/rpc_montior/build/src",
+  "command": "/usr/bin/c++ -DCARES_STATICLIB -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -I/home/xg/work/rpc_montior/build/src/monitor.exe_autogen/include -I/home/xg/work/rpc_montior/include/utils -I/home/xg/work/rpc_montior/include/monitor -I/home/xg/work/rpc_montior/cmake/tools/proto -I/home/xg/work/rpc_montior/include/qt -I/home/xg/work/rpc_montior/include/client -I/home/xg/work/rpc_montior/build/tools/proto -isystem /include -isystem /usr/include/x86_64-linux-gnu/qt5 -isystem /usr/include/x86_64-linux-gnu/qt5/QtWidgets -isystem /usr/include/x86_64-linux-gnu/qt5/QtGui -isystem /usr/include/x86_64-linux-gnu/qt5/QtCore -isystem /usr/lib/x86_64-linux-gnu/qt5/mkspecs/linux-g++ -fPIC -std=gnu++17 -o CMakeFiles/monitor.exe.dir/qt/cpu_softirq_model.cpp.o -c /home/xg/work/rpc_montior/src/qt/cpu_softirq_model.cpp",
+  "file": "/home/xg/work/rpc_montior/src/qt/cpu_softirq_model.cpp"
+},
+{
+  "directory": "/home/xg/work/rpc_montior/build/src",
+  "command": "/usr/bin/c++ -DCARES_STATICLIB -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -I/home/xg/work/rpc_montior/build/src/monitor.exe_autogen/include -I/home/xg/work/rpc_montior/include/utils -I/home/xg/work/rpc_montior/include/monitor -I/home/xg/work/rpc_montior/cmake/tools/proto -I/home/xg/work/rpc_montior/include/qt -I/home/xg/work/rpc_montior/include/client -I/home/xg/work/rpc_montior/build/tools/proto -isystem /include -isystem /usr/include/x86_64-linux-gnu/qt5 -isystem /usr/include/x86_64-linux-gnu/qt5/QtWidgets -isystem /usr/include/x86_64-linux-gnu/qt5/QtGui -isystem /usr/include/x86_64-linux-gnu/qt5/QtCore -isystem /usr/lib/x86_64-linux-gnu/qt5/mkspecs/linux-g++ -fPIC -std=gnu++17 -o CMakeFiles/monitor.exe.dir/qt/cpu_stat_model.cpp.o -c /home/xg/work/rpc_montior/src/qt/cpu_stat_model.cpp",
+  "file": "/home/xg/work/rpc_montior/src/qt/cpu_stat_model.cpp"
+},
+{
+  "directory": "/home/xg/work/rpc_montior/build/src",
+  "command": "/usr/bin/c++ -DCARES_STATICLIB -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -I/home/xg/work/rpc_montior/build/src/monitor.exe_autogen/include -I/home/xg/work/rpc_montior/include/utils -I/home/xg/work/rpc_montior/include/monitor -I/home/xg/work/rpc_montior/cmake/tools/proto -I/home/xg/work/rpc_montior/include/qt -I/home/xg/work/rpc_montior/include/client -I/home/xg/work/rpc_montior/build/tools/proto -isystem /include -isystem /usr/include/x86_64-linux-gnu/qt5 -isystem /usr/include/x86_64-linux-gnu/qt5/QtWidgets -isystem /usr/include/x86_64-linux-gnu/qt5/QtGui -isystem /usr/include/x86_64-linux-gnu/qt5/QtCore -isystem /usr/lib/x86_64-linux-gnu/qt5/mkspecs/linux-g++ -fPIC -std=gnu++17 -o CMakeFiles/monitor.exe.dir/qt/mem_model.cpp.o -c /home/xg/work/rpc_montior/src/qt/mem_model.cpp",
+  "file": "/home/xg/work/rpc_montior/src/qt/mem_model.cpp"
+},
+{
+  "directory": "/home/xg/work/rpc_montior/build/src",
+  "command": "/usr/bin/c++ -DCARES_STATICLIB -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -I/home/xg/work/rpc_montior/build/src/monitor.exe_autogen/include -I/home/xg/work/rpc_montior/include/utils -I/home/xg/work/rpc_montior/include/monitor -I/home/xg/work/rpc_montior/cmake/tools/proto -I/home/xg/work/rpc_montior/include/qt -I/home/xg/work/rpc_montior/include/client -I/home/xg/work/rpc_montior/build/tools/proto -isystem /include -isystem /usr/include/x86_64-linux-gnu/qt5 -isystem /usr/include/x86_64-linux-gnu/qt5/QtWidgets -isystem /usr/include/x86_64-linux-gnu/qt5/QtGui -isystem /usr/include/x86_64-linux-gnu/qt5/QtCore -isystem /usr/lib/x86_64-linux-gnu/qt5/mkspecs/linux-g++ -fPIC -std=gnu++17 -o CMakeFiles/monitor.exe.dir/qt/net_model.cpp.o -c /home/xg/work/rpc_montior/src/qt/net_model.cpp",
+  "file": "/home/xg/work/rpc_montior/src/qt/net_model.cpp"
+},
+{
+  "directory": "/home/xg/work/rpc_montior/build/src",
+  "command": "/usr/bin/c++ -DCARES_STATICLIB -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -I/home/xg/work/rpc_montior/build/src/monitor.exe_autogen/include -I/home/xg/work/rpc_montior/include/utils -I/home/xg/work/rpc_montior/include/monitor -I/home/xg/work/rpc_montior/cmake/tools/proto -I/home/xg/work/rpc_montior/include/qt -I/home/xg/work/rpc_montior/include/client -I/home/xg/work/rpc_montior/build/tools/proto -isystem /include -isystem /usr/include/x86_64-linux-gnu/qt5 -isystem /usr/include/x86_64-linux-gnu/qt5/QtWidgets -isystem /usr/include/x86_64-linux-gnu/qt5/QtGui -isystem /usr/include/x86_64-linux-gnu/qt5/QtCore -isystem /usr/lib/x86_64-linux-gnu/qt5/mkspecs/linux-g++ -fPIC -std=gnu++17 -o CMakeFiles/monitor.exe.dir/qt/monitor_model_base.cpp.o -c /home/xg/work/rpc_montior/src/qt/monitor_model_base.cpp",
+  "file": "/home/xg/work/rpc_montior/src/qt/monitor_model_base.cpp"
+},
+{
+  "directory": "/home/xg/work/rpc_montior/build/src",
+  "command": "/usr/bin/c++ -DCARES_STATICLIB -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -I/home/xg/work/rpc_montior/build/src/monitor.exe_autogen/include -I/home/xg/work/rpc_montior/include/utils -I/home/xg/work/rpc_montior/include/monitor -I/home/xg/work/rpc_montior/cmake/tools/proto -I/home/xg/work/rpc_montior/include/qt -I/home/xg/work/rpc_montior/include/client -I/home/xg/work/rpc_montior/build/tools/proto -isystem /include -isystem /usr/include/x86_64-linux-gnu/qt5 -isystem /usr/include/x86_64-linux-gnu/qt5/QtWidgets -isystem /usr/include/x86_64-linux-gnu/qt5/QtGui -isystem /usr/include/x86_64-linux-gnu/qt5/QtCore -isystem /usr/lib/x86_64-linux-gnu/qt5/mkspecs/linux-g++ -fPIC -std=gnu++17 -o CMakeFiles/monitor.exe.dir/client/rpc_client.cpp.o -c /home/xg/work/rpc_montior/src/client/rpc_client.cpp",
+  "file": "/home/xg/work/rpc_montior/src/client/rpc_client.cpp"
+},
+{
+  "directory": "/home/xg/work/rpc_montior/build/src",
+  "command": "/usr/bin/c++ -DCARES_STATICLIB -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -I/home/xg/work/rpc_montior/build/src/monitor.exe_autogen/include -I/home/xg/work/rpc_montior/include/utils -I/home/xg/work/rpc_montior/include/monitor -I/home/xg/work/rpc_montior/cmake/tools/proto -I/home/xg/work/rpc_montior/include/qt -I/home/xg/work/rpc_montior/include/client -I/home/xg/work/rpc_montior/build/tools/proto -isystem /include -isystem /usr/include/x86_64-linux-gnu/qt5 -isystem /usr/include/x86_64-linux-gnu/qt5/QtWidgets -isystem /usr/include/x86_64-linux-gnu/qt5/QtGui -isystem /usr/include/x86_64-linux-gnu/qt5/QtCore -isystem /usr/lib/x86_64-linux-gnu/qt5/mkspecs/linux-g++ -fPIC -std=gnu++17 -o CMakeFiles/monitor.exe.dir/monitor/cpu_load_monitor.cpp.o -c /home/xg/work/rpc_montior/src/monitor/cpu_load_monitor.cpp",
+  "file": "/home/xg/work/rpc_montior/src/monitor/cpu_load_monitor.cpp"
+},
+{
+  "directory": "/home/xg/work/rpc_montior/build/src",
+  "command": "/usr/bin/c++ -DCARES_STATICLIB -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -I/home/xg/work/rpc_montior/build/src/monitor.exe_autogen/include -I/home/xg/work/rpc_montior/include/utils -I/home/xg/work/rpc_montior/include/monitor -I/home/xg/work/rpc_montior/cmake/tools/proto -I/home/xg/work/rpc_montior/include/qt -I/home/xg/work/rpc_montior/include/client -I/home/xg/work/rpc_montior/build/tools/proto -isystem /include -isystem /usr/include/x86_64-linux-gnu/qt5 -isystem /usr/include/x86_64-linux-gnu/qt5/QtWidgets -isystem /usr/include/x86_64-linux-gnu/qt5/QtGui -isystem /usr/include/x86_64-linux-gnu/qt5/QtCore -isystem /usr/lib/x86_64-linux-gnu/qt5/mkspecs/linux-g++ -fPIC -std=gnu++17 -o CMakeFiles/monitor.exe.dir/monitor/cpu_softirq_monitor.cpp.o -c /home/xg/work/rpc_montior/src/monitor/cpu_softirq_monitor.cpp",
+  "file": "/home/xg/work/rpc_montior/src/monitor/cpu_softirq_monitor.cpp"
+},
+{
+  "directory": "/home/xg/work/rpc_montior/build/src",
+  "command": "/usr/bin/c++ -DCARES_STATICLIB -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -I/home/xg/work/rpc_montior/build/src/monitor.exe_autogen/include -I/home/xg/work/rpc_montior/include/utils -I/home/xg/work/rpc_montior/include/monitor -I/home/xg/work/rpc_montior/cmake/tools/proto -I/home/xg/work/rpc_montior/include/qt -I/home/xg/work/rpc_montior/include/client -I/home/xg/work/rpc_montior/build/tools/proto -isystem /include -isystem /usr/include/x86_64-linux-gnu/qt5 -isystem /usr/include/x86_64-linux-gnu/qt5/QtWidgets -isystem /usr/include/x86_64-linux-gnu/qt5/QtGui -isystem /usr/include/x86_64-linux-gnu/qt5/QtCore -isystem /usr/lib/x86_64-linux-gnu/qt5/mkspecs/linux-g++ -fPIC -std=gnu++17 -o CMakeFiles/monitor.exe.dir/monitor/cpu_stat_monitor.cpp.o -c /home/xg/work/rpc_montior/src/monitor/cpu_stat_monitor.cpp",
+  "file": "/home/xg/work/rpc_montior/src/monitor/cpu_stat_monitor.cpp"
+},
+{
+  "directory": "/home/xg/work/rpc_montior/build/src",
+  "command": "/usr/bin/c++ -DCARES_STATICLIB -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -I/home/xg/work/rpc_montior/build/src/monitor.exe_autogen/include -I/home/xg/work/rpc_montior/include/utils -I/home/xg/work/rpc_montior/include/monitor -I/home/xg/work/rpc_montior/cmake/tools/proto -I/home/xg/work/rpc_montior/include/qt -I/home/xg/work/rpc_montior/include/client -I/home/xg/work/rpc_montior/build/tools/proto -isystem /include -isystem /usr/include/x86_64-linux-gnu/qt5 -isystem /usr/include/x86_64-linux-gnu/qt5/QtWidgets -isystem /usr/include/x86_64-linux-gnu/qt5/QtGui -isystem /usr/include/x86_64-linux-gnu/qt5/QtCore -isystem /usr/lib/x86_64-linux-gnu/qt5/mkspecs/linux-g++ -fPIC -std=gnu++17 -o CMakeFiles/monitor.exe.dir/monitor/mem_monitor.cpp.o -c /home/xg/work/rpc_montior/src/monitor/mem_monitor.cpp",
+  "file": "/home/xg/work/rpc_montior/src/monitor/mem_monitor.cpp"
+},
+{
+  "directory": "/home/xg/work/rpc_montior/build/src",
+  "command": "/usr/bin/c++ -DCARES_STATICLIB -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -I/home/xg/work/rpc_montior/build/src/monitor.exe_autogen/include -I/home/xg/work/rpc_montior/include/utils -I/home/xg/work/rpc_montior/include/monitor -I/home/xg/work/rpc_montior/cmake/tools/proto -I/home/xg/work/rpc_montior/include/qt -I/home/xg/work/rpc_montior/include/client -I/home/xg/work/rpc_montior/build/tools/proto -isystem /include -isystem /usr/include/x86_64-linux-gnu/qt5 -isystem /usr/include/x86_64-linux-gnu/qt5/QtWidgets -isystem /usr/include/x86_64-linux-gnu/qt5/QtGui -isystem /usr/include/x86_64-linux-gnu/qt5/QtCore -isystem /usr/lib/x86_64-linux-gnu/qt5/mkspecs/linux-g++ -fPIC -std=gnu++17 -o CMakeFiles/monitor.exe.dir/monitor/net_monitor.cpp.o -c /home/xg/work/rpc_montior/src/monitor/net_monitor.cpp",
+  "file": "/home/xg/work/rpc_montior/src/monitor/net_monitor.cpp"
+},
+{
+  "directory": "/home/xg/work/rpc_montior/build/src",
+  "command": "/usr/bin/c++ -DCARES_STATICLIB -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -I/home/xg/work/rpc_montior/build/src/monitor.exe_autogen/include -I/home/xg/work/rpc_montior/include/utils -I/home/xg/work/rpc_montior/include/monitor -I/home/xg/work/rpc_montior/cmake/tools/proto -I/home/xg/work/rpc_montior/include/qt -I/home/xg/work/rpc_montior/include/client -I/home/xg/work/rpc_montior/build/tools/proto -isystem /include -isystem /usr/include/x86_64-linux-gnu/qt5 -isystem /usr/include/x86_64-linux-gnu/qt5/QtWidgets -isystem /usr/include/x86_64-linux-gnu/qt5/QtGui -isystem /usr/include/x86_64-linux-gnu/qt5/QtCore -isystem /usr/lib/x86_64-linux-gnu/qt5/mkspecs/linux-g++ -fPIC -std=gnu++17 -o CMakeFiles/monitor.exe.dir/utils/read_file.cpp.o -c /home/xg/work/rpc_montior/src/utils/read_file.cpp",
+  "file": "/home/xg/work/rpc_montior/src/utils/read_file.cpp"
+},
+{
+  "directory": "/home/xg/work/rpc_montior/build/src/client",
+  "command": "/usr/bin/c++ -DCARES_STATICLIB -I/home/xg/work/rpc_montior/include/utils -I/home/xg/work/rpc_montior/include/monitor -I/home/xg/work/rpc_montior/cmake/tools/proto -I/home/xg/work/rpc_montior/include/qt -I/home/xg/work/rpc_montior/include/client -I/home/xg/work/rpc_montior/build/tools/proto -isystem /include -std=gnu++17 -o CMakeFiles/client.dir/rpc_client.cpp.o -c /home/xg/work/rpc_montior/src/client/rpc_client.cpp",
+  "file": "/home/xg/work/rpc_montior/src/client/rpc_client.cpp"
+},
+{
+  "directory": "/home/xg/work/rpc_montior/build/tools/proto",
+  "command": "/usr/bin/c++ -DCARES_STATICLIB -I/home/xg/work/rpc_montior/include/utils -I/home/xg/work/rpc_montior/include/monitor -I/home/xg/work/rpc_montior/cmake/tools/proto -I/home/xg/work/rpc_montior/include/qt -I/home/xg/work/rpc_montior/include/client -I/home/xg/work/rpc_montior/build/tools/proto -isystem /include -std=gnu++17 -o CMakeFiles/monitor_proto.dir/cpu_load.pb.cc.o -c /home/xg/work/rpc_montior/build/tools/proto/cpu_load.pb.cc",
+  "file": "/home/xg/work/rpc_montior/build/tools/proto/cpu_load.pb.cc"
+},
+{
+  "directory": "/home/xg/work/rpc_montior/build/tools/proto",
+  "command": "/usr/bin/c++ -DCARES_STATICLIB -I/home/xg/work/rpc_montior/include/utils -I/home/xg/work/rpc_montior/include/monitor -I/home/xg/work/rpc_montior/cmake/tools/proto -I/home/xg/work/rpc_montior/include/qt -I/home/xg/work/rpc_montior/include/client -I/home/xg/work/rpc_montior/build/tools/proto -isystem /include -std=gnu++17 -o CMakeFiles/monitor_proto.dir/cpu_softirq.pb.cc.o -c /home/xg/work/rpc_montior/build/tools/proto/cpu_softirq.pb.cc",
+  "file": "/home/xg/work/rpc_montior/build/tools/proto/cpu_softirq.pb.cc"
+},
+{
+  "directory": "/home/xg/work/rpc_montior/build/tools/proto",
+  "command": "/usr/bin/c++ -DCARES_STATICLIB -I/home/xg/work/rpc_montior/include/utils -I/home/xg/work/rpc_montior/include/monitor -I/home/xg/work/rpc_montior/cmake/tools/proto -I/home/xg/work/rpc_montior/include/qt -I/home/xg/work/rpc_montior/include/client -I/home/xg/work/rpc_montior/build/tools/proto -isystem /include -std=gnu++17 -o CMakeFiles/monitor_proto.dir/cpu_stat.pb.cc.o -c /home/xg/work/rpc_montior/build/tools/proto/cpu_stat.pb.cc",
+  "file": "/home/xg/work/rpc_montior/build/tools/proto/cpu_stat.pb.cc"
+},
+{
+  "directory": "/home/xg/work/rpc_montior/build/tools/proto",
+  "command": "/usr/bin/c++ -DCARES_STATICLIB -I/home/xg/work/rpc_montior/include/utils -I/home/xg/work/rpc_montior/include/monitor -I/home/xg/work/rpc_montior/cmake/tools/proto -I/home/xg/work/rpc_montior/include/qt -I/home/xg/work/rpc_montior/include/client -I/home/xg/work/rpc_montior/build/tools/proto -isystem /include -std=gnu++17 -o CMakeFiles/monitor_proto.dir/mem_info.pb.cc.o -c /home/xg/work/rpc_montior/build/tools/proto/mem_info.pb.cc",
+  "file": "/home/xg/work/rpc_montior/build/tools/proto/mem_info.pb.cc"
+},
+{
+  "directory": "/home/xg/work/rpc_montior/build/tools/proto",
+  "command": "/usr/bin/c++ -DCARES_STATICLIB -I/home/xg/work/rpc_montior/include/utils -I/home/xg/work/rpc_montior/include/monitor -I/home/xg/work/rpc_montior/cmake/tools/proto -I/home/xg/work/rpc_montior/include/qt -I/home/xg/work/rpc_montior/include/client -I/home/xg/work/rpc_montior/build/tools/proto -isystem /include -std=gnu++17 -o CMakeFiles/monitor_proto.dir/monitor_info.pb.cc.o -c /home/xg/work/rpc_montior/build/tools/proto/monitor_info.pb.cc",
+  "file": "/home/xg/work/rpc_montior/build/tools/proto/monitor_info.pb.cc"
+},
+{
+  "directory": "/home/xg/work/rpc_montior/build/tools/proto",
+  "command": "/usr/bin/c++ -DCARES_STATICLIB -I/home/xg/work/rpc_montior/include/utils -I/home/xg/work/rpc_montior/include/monitor -I/home/xg/work/rpc_montior/cmake/tools/proto -I/home/xg/work/rpc_montior/include/qt -I/home/xg/work/rpc_montior/include/client -I/home/xg/work/rpc_montior/build/tools/proto -isystem /include -std=gnu++17 -o CMakeFiles/monitor_proto.dir/net_info.pb.cc.o -c /home/xg/work/rpc_montior/build/tools/proto/net_info.pb.cc",
+  "file": "/home/xg/work/rpc_montior/build/tools/proto/net_info.pb.cc"
+},
+{
+  "directory": "/home/xg/work/rpc_montior/build/tools/proto",
+  "command": "/usr/bin/c++ -DCARES_STATICLIB -I/home/xg/work/rpc_montior/include/utils -I/home/xg/work/rpc_montior/include/monitor -I/home/xg/work/rpc_montior/cmake/tools/proto -I/home/xg/work/rpc_montior/include/qt -I/home/xg/work/rpc_montior/include/client -I/home/xg/work/rpc_montior/build/tools/proto -isystem /include -std=gnu++17 -o CMakeFiles/monitor_proto.dir/cpu_load.grpc.pb.cc.o -c /home/xg/work/rpc_montior/build/tools/proto/cpu_load.grpc.pb.cc",
+  "file": "/home/xg/work/rpc_montior/build/tools/proto/cpu_load.grpc.pb.cc"
+},
+{
+  "directory": "/home/xg/work/rpc_montior/build/tools/proto",
+  "command": "/usr/bin/c++ -DCARES_STATICLIB -I/home/xg/work/rpc_montior/include/utils -I/home/xg/work/rpc_montior/include/monitor -I/home/xg/work/rpc_montior/cmake/tools/proto -I/home/xg/work/rpc_montior/include/qt -I/home/xg/work/rpc_montior/include/client -I/home/xg/work/rpc_montior/build/tools/proto -isystem /include -std=gnu++17 -o CMakeFiles/monitor_proto.dir/cpu_softirq.grpc.pb.cc.o -c /home/xg/work/rpc_montior/build/tools/proto/cpu_softirq.grpc.pb.cc",
+  "file": "/home/xg/work/rpc_montior/build/tools/proto/cpu_softirq.grpc.pb.cc"
+},
+{
+  "directory": "/home/xg/work/rpc_montior/build/tools/proto",
+  "command": "/usr/bin/c++ -DCARES_STATICLIB -I/home/xg/work/rpc_montior/include/utils -I/home/xg/work/rpc_montior/include/monitor -I/home/xg/work/rpc_montior/cmake/tools/proto -I/home/xg/work/rpc_montior/include/qt -I/home/xg/work/rpc_montior/include/client -I/home/xg/work/rpc_montior/build/tools/proto -isystem /include -std=gnu++17 -o CMakeFiles/monitor_proto.dir/cpu_stat.grpc.pb.cc.o -c /home/xg/work/rpc_montior/build/tools/proto/cpu_stat.grpc.pb.cc",
+  "file": "/home/xg/work/rpc_montior/build/tools/proto/cpu_stat.grpc.pb.cc"
+},
+{
+  "directory": "/home/xg/work/rpc_montior/build/tools/proto",
+  "command": "/usr/bin/c++ -DCARES_STATICLIB -I/home/xg/work/rpc_montior/include/utils -I/home/xg/work/rpc_montior/include/monitor -I/home/xg/work/rpc_montior/cmake/tools/proto -I/home/xg/work/rpc_montior/include/qt -I/home/xg/work/rpc_montior/include/client -I/home/xg/work/rpc_montior/build/tools/proto -isystem /include -std=gnu++17 -o CMakeFiles/monitor_proto.dir/mem_info.grpc.pb.cc.o -c /home/xg/work/rpc_montior/build/tools/proto/mem_info.grpc.pb.cc",
+  "file": "/home/xg/work/rpc_montior/build/tools/proto/mem_info.grpc.pb.cc"
+},
+{
+  "directory": "/home/xg/work/rpc_montior/build/tools/proto",
+  "command": "/usr/bin/c++ -DCARES_STATICLIB -I/home/xg/work/rpc_montior/include/utils -I/home/xg/work/rpc_montior/include/monitor -I/home/xg/work/rpc_montior/cmake/tools/proto -I/home/xg/work/rpc_montior/include/qt -I/home/xg/work/rpc_montior/include/client -I/home/xg/work/rpc_montior/build/tools/proto -isystem /include -std=gnu++17 -o CMakeFiles/monitor_proto.dir/monitor_info.grpc.pb.cc.o -c /home/xg/work/rpc_montior/build/tools/proto/monitor_info.grpc.pb.cc",
+  "file": "/home/xg/work/rpc_montior/build/tools/proto/monitor_info.grpc.pb.cc"
+},
+{
+  "directory": "/home/xg/work/rpc_montior/build/tools/proto",
+  "command": "/usr/bin/c++ -DCARES_STATICLIB -I/home/xg/work/rpc_montior/include/utils -I/home/xg/work/rpc_montior/include/monitor -I/home/xg/work/rpc_montior/cmake/tools/proto -I/home/xg/work/rpc_montior/include/qt -I/home/xg/work/rpc_montior/include/client -I/home/xg/work/rpc_montior/build/tools/proto -isystem /include -std=gnu++17 -o CMakeFiles/monitor_proto.dir/net_info.grpc.pb.cc.o -c /home/xg/work/rpc_montior/build/tools/proto/net_info.grpc.pb.cc",
+  "file": "/home/xg/work/rpc_montior/build/tools/proto/net_info.grpc.pb.cc"
+}
+]
