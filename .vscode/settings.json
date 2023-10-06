@@ -65,7 +65,15 @@
     "stop_token": "cpp",
     "thread": "cpp",
     "cinttypes": "cpp",
-    "variant": "cpp"
+    "variant": "cpp",
+    "bitset": "cpp",
+    "cfenv": "cpp",
+    "scoped_allocator": "cpp",
+    "typeindex": "cpp",
+    "qstandarditemmodel": "cpp",
+    "qtwidgets": "cpp",
+    "qobject": "cpp",
+    "qabstracttablemodel": "cpp"
   },
-  "C_Cpp.errorSquiggles": "enabled"
+  "C_Cpp.errorSquiggles": "enabled",
 }

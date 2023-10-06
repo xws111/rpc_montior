@@ -11,8 +11,8 @@ static void test() {
   CpuLoadMonitor test_cpu_load;
   rpc_monitor::MonitorInfo monitor_info;
   test_cpu_load.update_once(&monitor_info);
-  auto data = monitor_info.mutable_cpu_load();
-  EXPECT_EQ(data.load_avg_1_, 0);
+  EXPECT_GT(test_cpu_load.get_load_avg(1), 0);
+  EXPECT_LT(test_cpu_load.get_load_avg(1), 100);
 }
 
 TEST(cpu_test, cpu_load_test) { test(); }

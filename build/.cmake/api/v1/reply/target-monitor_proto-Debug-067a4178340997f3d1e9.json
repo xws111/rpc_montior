@@ -1,0 +1,522 @@
+{
+	"archive" : {},
+	"artifacts" : 
+	[
+		{
+			"path" : "tools/proto/libmonitor_proto.a"
+		}
+	],
+	"backtrace" : 1,
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"add_library",
+			"target_link_libraries",
+			"include_directories",
+			"target_include_directories",
+			"target_sources",
+			"protobuf_generate"
+		],
+		"files" : 
+		[
+			"tools/proto/CMakeLists.txt",
+			"CMakeLists.txt",
+			"/usr/local/lib/cmake/protobuf/protobuf-config.cmake"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 12,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 13,
+				"parent" : 0
+			},
+			{
+				"file" : 1
+			},
+			{
+				"command" : 2,
+				"file" : 1,
+				"line" : 9,
+				"parent" : 3
+			},
+			{
+				"command" : 2,
+				"file" : 1,
+				"line" : 10,
+				"parent" : 3
+			},
+			{
+				"command" : 2,
+				"file" : 1,
+				"line" : 11,
+				"parent" : 3
+			},
+			{
+				"command" : 2,
+				"file" : 1,
+				"line" : 12,
+				"parent" : 3
+			},
+			{
+				"command" : 2,
+				"file" : 1,
+				"line" : 13,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 0,
+				"line" : 20,
+				"parent" : 0
+			},
+			{
+				"command" : 5,
+				"file" : 0,
+				"line" : 26,
+				"parent" : 0
+			},
+			{
+				"command" : 4,
+				"file" : 2,
+				"line" : 146,
+				"parent" : 10
+			},
+			{
+				"command" : 5,
+				"file" : 0,
+				"line" : 27,
+				"parent" : 0
+			},
+			{
+				"command" : 4,
+				"file" : 2,
+				"line" : 146,
+				"parent" : 12
+			}
+		]
+	},
+	"compileGroups" : 
+	[
+		{
+			"compileCommandFragments" : 
+			[
+				{
+					"fragment" : "-std=gnu++17"
+				}
+			],
+			"defines" : 
+			[
+				{
+					"backtrace" : 2,
+					"define" : "CARES_STATICLIB"
+				}
+			],
+			"includes" : 
+			[
+				{
+					"backtrace" : 4,
+					"path" : "/home/xg/work/rpc_montior/include/utils"
+				},
+				{
+					"backtrace" : 5,
+					"path" : "/home/xg/work/rpc_montior/include/monitor"
+				},
+				{
+					"backtrace" : 6,
+					"path" : "/home/xg/work/rpc_montior/cmake/tools/proto"
+				},
+				{
+					"backtrace" : 7,
+					"path" : "/home/xg/work/rpc_montior/include/qt"
+				},
+				{
+					"backtrace" : 8,
+					"path" : "/home/xg/work/rpc_montior/include/client"
+				},
+				{
+					"backtrace" : 9,
+					"path" : "/home/xg/work/rpc_montior/build/tools/proto"
+				},
+				{
+					"backtrace" : 2,
+					"isSystem" : true,
+					"path" : "/include"
+				}
+			],
+			"language" : "CXX",
+			"languageStandard" : 
+			{
+				"backtraces" : 
+				[
+					2
+				],
+				"standard" : "17"
+			},
+			"sourceIndexes" : 
+			[
+				7,
+				9,
+				11,
+				13,
+				15,
+				17,
+				19,
+				21,
+				23,
+				25,
+				27,
+				29
+			]
+		}
+	],
+	"id" : "monitor_proto::@8910f38d8ff324c7dbfe",
+	"name" : "monitor_proto",
+	"nameOnDisk" : "libmonitor_proto.a",
+	"paths" : 
+	{
+		"build" : "tools/proto",
+		"source" : "tools/proto"
+	},
+	"sourceGroups" : 
+	[
+		{
+			"name" : "",
+			"sourceIndexes" : 
+			[
+				0,
+				1,
+				2,
+				3,
+				4,
+				5
+			]
+		},
+		{
+			"name" : "Header Files",
+			"sourceIndexes" : 
+			[
+				6,
+				8,
+				10,
+				12,
+				14,
+				16,
+				18,
+				20,
+				22,
+				24,
+				26,
+				28
+			]
+		},
+		{
+			"name" : "Source Files",
+			"sourceIndexes" : 
+			[
+				7,
+				9,
+				11,
+				13,
+				15,
+				17,
+				19,
+				21,
+				23,
+				25,
+				27,
+				29
+			]
+		},
+		{
+			"name" : "CMake Rules",
+			"sourceIndexes" : 
+			[
+				30,
+				31,
+				32,
+				33,
+				34,
+				35,
+				36,
+				37,
+				38,
+				39,
+				40,
+				41
+			]
+		}
+	],
+	"sources" : 
+	[
+		{
+			"backtrace" : 1,
+			"path" : "tools/proto/cpu_load.proto",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "tools/proto/cpu_softirq.proto",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "tools/proto/cpu_stat.proto",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "tools/proto/mem_info.proto",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "tools/proto/monitor_info.proto",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "tools/proto/net_info.proto",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 11,
+			"isGenerated" : true,
+			"path" : "build/tools/proto/cpu_load.pb.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 11,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "build/tools/proto/cpu_load.pb.cc",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 11,
+			"isGenerated" : true,
+			"path" : "build/tools/proto/cpu_softirq.pb.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 11,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "build/tools/proto/cpu_softirq.pb.cc",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 11,
+			"isGenerated" : true,
+			"path" : "build/tools/proto/cpu_stat.pb.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 11,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "build/tools/proto/cpu_stat.pb.cc",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 11,
+			"isGenerated" : true,
+			"path" : "build/tools/proto/mem_info.pb.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 11,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "build/tools/proto/mem_info.pb.cc",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 11,
+			"isGenerated" : true,
+			"path" : "build/tools/proto/monitor_info.pb.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 11,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "build/tools/proto/monitor_info.pb.cc",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 11,
+			"isGenerated" : true,
+			"path" : "build/tools/proto/net_info.pb.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 11,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "build/tools/proto/net_info.pb.cc",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 13,
+			"isGenerated" : true,
+			"path" : "build/tools/proto/cpu_load.grpc.pb.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 13,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "build/tools/proto/cpu_load.grpc.pb.cc",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 13,
+			"isGenerated" : true,
+			"path" : "build/tools/proto/cpu_softirq.grpc.pb.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 13,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "build/tools/proto/cpu_softirq.grpc.pb.cc",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 13,
+			"isGenerated" : true,
+			"path" : "build/tools/proto/cpu_stat.grpc.pb.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 13,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "build/tools/proto/cpu_stat.grpc.pb.cc",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 13,
+			"isGenerated" : true,
+			"path" : "build/tools/proto/mem_info.grpc.pb.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 13,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "build/tools/proto/mem_info.grpc.pb.cc",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 13,
+			"isGenerated" : true,
+			"path" : "build/tools/proto/monitor_info.grpc.pb.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 13,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "build/tools/proto/monitor_info.grpc.pb.cc",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 13,
+			"isGenerated" : true,
+			"path" : "build/tools/proto/net_info.grpc.pb.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 13,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "build/tools/proto/net_info.grpc.pb.cc",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/tools/proto/cpu_load.pb.h.rule",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/tools/proto/cpu_softirq.pb.h.rule",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/tools/proto/cpu_stat.pb.h.rule",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/tools/proto/mem_info.pb.h.rule",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/tools/proto/monitor_info.pb.h.rule",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/tools/proto/net_info.pb.h.rule",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/tools/proto/cpu_load.grpc.pb.h.rule",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/tools/proto/cpu_softirq.grpc.pb.h.rule",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/tools/proto/cpu_stat.grpc.pb.h.rule",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/tools/proto/mem_info.grpc.pb.h.rule",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/tools/proto/monitor_info.grpc.pb.h.rule",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/tools/proto/net_info.grpc.pb.h.rule",
+			"sourceGroupIndex" : 3
+		}
+	],
+	"type" : "STATIC_LIBRARY"
+}

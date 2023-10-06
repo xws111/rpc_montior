@@ -10,8 +10,6 @@ FetchContent_Declare(
 set(BUILD_GMOCK OFF CACHE BOOL "" FORCE)
 FetchContent_MakeAvailable(gtest)
 
-include_directories(${CMAKE_SOURCE_DIR}/include/monitor)
-include_directories(${CMAKE_SOURCE_DIR}/include/utils)
 
 # read_file的测试文件
 add_executable(
@@ -20,11 +18,13 @@ add_executable(
   ${CMAKE_SOURCE_DIR}/src/utils/read_file.cpp
 )
 
+
 # cpu_load测试文件
 add_executable(
   cpu_load_test
   cpu_load/cpu_load_test.cpp
   ${CMAKE_SOURCE_DIR}/src/monitor/cpu_load_monitor.cpp
+  ${CMAKE_SOURCE_DIR}/src/utils/read_file.cpp
 )
 
 

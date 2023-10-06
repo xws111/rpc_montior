@@ -20,4 +20,22 @@ void CpuLoadMonitor::update_once(rpc_monitor::MonitorInfo* monitor_info) {
   cpu_load_msg->set_load_avg_15(load_avg_15_);
   return;
 }
+float CpuLoadMonitor::get_load_avg(int min) {
+  if (min == 1)
+  {
+    return load_avg_1_;
+  }
+  else if (min == 3)
+  {
+    return load_avg_3_;
+  }
+  else if (min == 15)
+  {
+    return load_avg_15_;
+  }
+  else
+  {
+    return 0;
+  }
+}
 }  // namespace monitor

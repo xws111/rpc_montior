@@ -13,11 +13,12 @@ class CpuLoadMonitor : public MonitorBase{
     CpuLoadMonitor() {}
     void update_once(rpc_monitor::MonitorInfo* monitor_info) override;
     void stop_update() override {}
+    float get_load_avg(int min);
   private:
     float load_avg_1_;
     float load_avg_3_;
     float load_avg_15_;
-}
+};
 
 }
 

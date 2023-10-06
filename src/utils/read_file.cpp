@@ -1,8 +1,6 @@
-#include "utils/read_file.h"
-
+#include "read_file.h"
 namespace monitor
 {
-
 bool FileReader::read_line(std::vector<std::string>* args)
 {
   std::string line;
